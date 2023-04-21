@@ -4,7 +4,7 @@ Hi there, I'm Hakan UI/UX designer and web developer.<br><br>Nearly at the end o
 
 ## 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/hakan-asmao%C4%9Flu-16276a174"><img src="https://cdn3.iconfinder.com/data/icons/sociocons/256/linkedin-sociocon.png"></a>
+<a href="https://www.linkedin.com/in/hakan-asmao%C4%9Flu-16276a174">Linkedin</a>
 
 
 # 💻 Tech Stack:
