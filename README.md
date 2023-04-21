@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Hakan UI/UX designer and web developer.<br><br>Nearly at the end of my first year at Oulu University of applied sciences.<br><br>I make user research, design interfaces, and develop for the web.<br>
+Hi there, I'm Hakan UI/UX designer and web developer.<br><br>Nearly at the end of my first year in IT at Oulu University of applied sciences.<br><br>I am able to make user research, design interfaces, and develop for the web.<br><br><br>Currently working on the e-commerce web-app project for the ending project of the year. Please take a <a href="https://rulers-sh.com/"> look🔍 </a>
 
 
 ## 🌐 Socials:
