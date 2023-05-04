@@ -69,7 +69,7 @@
 
 ###
 
-<img align="right" height="300" src="https://media.tenor.com/gBbi6vkIdu0AAAAd/hacking-silly.gif"  />
+<img align="right" height="300" src="https://media.tenor.com/PdUQhVIQyCsAAAAd/mega64-hacked.gif"  />
 
 ###
 
