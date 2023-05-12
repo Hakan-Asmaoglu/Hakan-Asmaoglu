@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Hakan Asmaoglu. A UI/UX designer, Full stack developer, and a devoted student of the IT world.</p>
+<p align="left">I am Hakan. A UI/UX designer, Full stack developer, and a devoted student of the IT world.</p>
 
 ###
 
