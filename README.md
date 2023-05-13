@@ -85,8 +85,8 @@
 ###
 
 <div align="left">
-  <img src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo.png" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="72" alt="apache logo"  />
+  <img src="https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo.png" height="40" width="62" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
 </div>
 
 ###
