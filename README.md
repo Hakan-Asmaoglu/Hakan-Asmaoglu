@@ -99,6 +99,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
 </div>
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
+</div>
+
 ###
 
 <p align="left"></p>
@@ -109,8 +113,6 @@
 <p align="left">Please check the repos before you quit. You know...</p>
 
 ###
-
-<img align="left" height="200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TcYv6j9o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/05/meme.jpeg"  />
 
 <img align="left" height="200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TcYv6j9o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/05/meme.jpeg"  />
 
