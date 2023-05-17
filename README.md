@@ -109,7 +109,7 @@
 ###
 <br><br>
 
-<p align="left">Please check the repos before you leave. You know...</p>
+<p align="left">Please check the repos before you leave. As you know...</p>
 
 ###
 
