@@ -10,10 +10,6 @@
 
 ###
 
-<p align="left">Project of the year:<br><br><a href="https://rulers-sh.com/">Rulers</a></p>
-
-###
-
 <p align="left">Current tech stack:</p>
 
 ###
