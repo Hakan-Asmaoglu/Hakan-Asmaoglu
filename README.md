@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Recently completed my first year of study in Information Technology at Oulu(Finland) University of Applied Sciences (OAMK). Currently improving myself in project management and cloud.</p>
+<p align="left">Recently completed my first year of study in Information Technology at Oulu(Finland) University of Applied Sciences (OAMK). I am currently improving myself in project management and cloud.</p>
 
 ###
 
@@ -98,17 +98,4 @@
 
 
 
-###
 
-<p align="left"></p>
-
-###
-<br><br>
-
-<p align="left">Please check the repos before you leave. As you know...</p>
-
-###
-
-<img align="left" height="200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TcYv6j9o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/05/meme.jpeg"  />
-
-###
