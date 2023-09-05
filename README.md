@@ -61,7 +61,6 @@
 
 ###
 
-<img align="right" height="245" src="https://media3.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif?cid=6c09b95257e90cf85954f27befddc0e6e5a7fcb7254e274b&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=g"  />
 
 ###
 
