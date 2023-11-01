@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">2nd year of study in Information Technology at Oulu(Finland) University of Applied Sciences (OAMK). Currently improving myself in project management and cloud.</p>
+<p align="left">2nd year of Information Technology at Oulu(Finland) University of Applied Sciences(OAMK). Currently improving myself in project management and cloud.</p>
 
 ###
 
