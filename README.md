@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Hakan. UI/UX designer, front-end developer, and devoted student of the IT.</p>
+<p align="left">I am Hakan. UI/UX generalist, front-end developer, and devoted student of the IT.</p>
 
 ###
 
