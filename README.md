@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Hakan. UI/UX generalist, former Communication(PR & Advertising focused) specialist, and devoted student of the IT.</p>
+<p align="left">I am Hakan. Product Designer, former Communication(PR & Advertising focused) specialist, and devoted student of the IT. </p>
 
 ###
 
