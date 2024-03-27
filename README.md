@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">I am Hakan. UI/UX generalist, front-end developer, and devoted student of the IT.</p>
+<p align="left">I am Hakan. UI/UX generalist, former Communication(PR & Advertising focused) specialist, and devoted student of the IT.</p>
 
 ###
 
-<p align="left">2nd year of Information Technology at Oulu(Finland) University of Applied Sciences(OAMK). Currently improving myself in project management and cloud.</p>
+<p align="left">2nd year of Information Technology at Oulu(Finland) University of Applied Sciences(OAMK). Currently working in an international team as a UI/UX designer and scrum master.</p>
 
 ###
 
