@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">2nd year of Information Technology at Oulu(Finland) University of Applied Sciences(OAMK). Currently working in an international team as a UI/UX designer and scrum master.</p>
+<p align="left">2nd year of Information Technology at Oulu(Finland) University of Applied Sciences(OAMK). Currently working in an international team as a UI/UX designer, front-end developer and scrum master.</p>
 
 ###
 
