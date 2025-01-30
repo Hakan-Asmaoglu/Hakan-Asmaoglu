@@ -39,6 +39,14 @@ I blend **UX design, technology, and communication** to create impactful digital
 
 ---
 
+## ⚙️ **Tech Stack**
+🛠 **Languages & Tools:**  
+- **Design:** Figma, Adobe XD  
+- **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
+- **Version Control:** Git, GitHub  
+
 ## 📫 **Let's Connect**
 
 📧 Email: [hakanasmaoglu@gmail.com](mailto:hakanasmaoglu@gmail.com)  
