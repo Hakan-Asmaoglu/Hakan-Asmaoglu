@@ -4,16 +4,6 @@
   <strong>UX Designer | IT Student | Communication Specialist</strong>
 </p>
 
-<p align="center">
-  Bridging creativity and technology to craft seamless digital experiences.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/UX%20Designer-%E2%9C%94%EF%B8%8F-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/IT%20Student-%E2%9C%94%EF%B8%8F-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Abstract%20Painter-%E2%9C%94%EF%B8%8F-black?style=flat-square" />
-</p>
-
 ---
 
 ## 🎨 **About Me**
