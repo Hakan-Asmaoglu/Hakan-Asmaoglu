@@ -16,18 +16,6 @@
 I blend **UX design, technology, and communication** to create impactful digital solutions.
 
 ---
----
-
-## 🎨 **About Me**
-
-- 🖌 **Crafting seamless, user-friendly, and business-driven digital experiences**  
-- 💬 **Communication Specialist** (B.A. in PR & Advertising)  
-- 👨🏻‍🎓 **IT Student @ OAMK, Finland (3rd Year)**  
-- 🎨 **Abstract painter & surrealist art enthusiast**  
-
-I blend **UX design, technology, and communication** to create impactful digital solutions.
-
----
 
 ## ⚙️ **Tech Stack**
 
