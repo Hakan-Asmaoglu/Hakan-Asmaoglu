@@ -26,13 +26,15 @@
 
 ## 📫 **Let's Connect**
 <p align="center">
-  <a href="mailto:hakanasmaoglu@gmail.com">
+  <a href="mailto:hakanasmaoglu@gmail.com" style="margin: 20px;">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45">
-  </a>
-  <a href="https://www.linkedin.com/in/hakan-asmaoglu">
+  </a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hakan-asmaoglu" style="margin: 20px;">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45">
-  </a>
-  <a href="https://github.com/Hakan-Asmaoglu">
+  </a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Hakan-Asmaoglu" style="margin: 20px;">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45">
   </a>
 </p>
