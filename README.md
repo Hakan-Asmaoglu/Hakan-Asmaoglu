@@ -63,7 +63,7 @@
 
 ### 📫 **Contact Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/hakan">
+  <a href="www.linkedin.com/in/hakan-asmaoglu">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/hakan">
