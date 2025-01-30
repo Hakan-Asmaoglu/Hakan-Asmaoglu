@@ -1,6 +1,6 @@
-<h1 align="center">
-  Hi, I'm Hakan 👋<span class="cursor">|</span>
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hakan-Asmaoglu/Hakan-Asmaoglu/main/assets/tech-stack-animated.svg" alt="Tech Stack Animation"/>
+</p>
 
 <style>
   .cursor {
