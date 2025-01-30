@@ -19,7 +19,7 @@
 
 ## ⚙️ **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,java,figma,photoshop,illustrator,git,github,linux,azure,gcp,aws,yolo,tensorflow,opencv,raspberrypi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,python,java,figma,photoshop,illustrator,git,github,linux,azure,gcp,aws,tensorflow,opencv,raspberrypi&theme=dark" />
 </p>
 
 ---
