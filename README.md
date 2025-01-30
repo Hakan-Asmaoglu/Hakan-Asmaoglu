@@ -37,18 +37,3 @@ I bridge **UX, technology, and communication** to create meaningful digital solu
 
 ### 🚀 *"Bridging Creativity & Technology for Meaningful Digital Experiences"*  
 
----
-
-### ✨ Cool Extras:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hakan-Asmaoglu&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hakan-Asmaoglu&theme=radical&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hakan-Asmaoglu&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=UX+%2B+Code+%2B+Communication=🔥;Designing+meaningful+experiences+🚀;Turning+ideas+into+real+solutions+💡" />
-</p>
