@@ -1,6 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=F75C7E&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+My+Profile!+👋" />
-</h1>
+<h1 align="center">Hi, I'm Hakan 👋</h1>
+
+<p align="center">
+  <strong>UX Designer | IT Student | Communication Specialist</strong>
+</p>
+
+<p align="center">
+  Bridging creativity and technology to craft seamless digital experiences.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/UX%20Designer-%E2%9C%94%EF%B8%8F-black?style=flat-square" />
@@ -8,6 +14,18 @@
   <img src="https://img.shields.io/badge/Abstract%20Painter-%E2%9C%94%EF%B8%8F-black?style=flat-square" />
 </p>
 
+---
+
+## 🎨 **About Me**
+
+- 🖌 **Crafting seamless, user-friendly, and business-driven digital experiences**  
+- 💬 **Communication Specialist** (B.A. in PR & Advertising)  
+- 👨🏻‍🎓 **IT Student @ OAMK, Finland (3rd Year)**  
+- 🎨 **Abstract painter & surrealist art enthusiast**  
+
+I blend **UX design, technology, and communication** to create impactful digital solutions.
+
+---
 ---
 
 ## 🎨 **About Me**
