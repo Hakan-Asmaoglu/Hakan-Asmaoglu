@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=#9ca3af&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hakan+%F0%9F%91%8B;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9ca3af&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hakan+%F0%9F%91%8B;" />
 </h1>
 
 <p align="center">
@@ -35,5 +35,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=#9ca3af&center=true&vCenter=true&width=600&height=50&lines=UX+%2B+Code+%2B+Communication=🔥;Designing+meaningful+experiences+🚀;Turning+ideas+into+real+solutions+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=9ca3af&center=true&vCenter=true&width=600&height=50&lines=UX+%2B+Code+%2B+Communication=🔥;Designing+meaningful+experiences+🚀;Turning+ideas+into+real+solutions+💡" />
 </p>
