@@ -4,10 +4,6 @@
   <strong>UX Designer | Hobbyist Developer | Communication Specialist</strong>
 </p>
 
-<p align="center">
-  Passionate about crafting intuitive, user-centric digital experiences.
-</p>
-
 ---
 
 ## 🎨 **About Me**
