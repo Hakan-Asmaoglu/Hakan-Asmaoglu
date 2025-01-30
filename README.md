@@ -3,14 +3,14 @@
 </h1>
 
 <p align="center">
-  <strong>UX Designer | Hobbyist Developer | Communication Specialist</strong>
+  <strong>UX Designer | Communication Specialist | Hobbyist Developer</strong>
 </p>
 
 ---
 
 ## 🎨 **About Me**
 
-- 🖌 **Designing seamless, user-friendly, and business-driven digital experiences**  
+- 🖌 **Designing user 🙂 and business 💸 friendly digital solutions  **  
 - 💬 **Communication Specialist** (B.A. in PR & Advertising)  
 - 👨🏻‍🎓 **IT Student @ OAMK, Finland (3rd Year)**  
 - 🎨 **Abstract painter & surrealist art enthusiast**  
