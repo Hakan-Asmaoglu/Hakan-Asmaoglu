@@ -1,4 +1,16 @@
-<h1 align="center">Hi, I'm Hakan 👋</h1>
+<h1 align="center">
+  Hi, I'm Hakan 👋<span class="cursor">|</span>
+</h1>
+
+<style>
+  .cursor {
+    animation: blink 1s infinite;
+  }
+  
+  @keyframes blink {
+    50% { opacity: 0; }
+  }
+</style>
 
 <p align="center">
   <strong>UX Designer | Hobbyist Developer | Communication Specialist</strong>
