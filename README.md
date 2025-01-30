@@ -15,7 +15,6 @@
 - 👨🏻‍🎓 **IT Student @ OAMK, Finland (3rd Year)**  
 - 🎨 **Abstract painter & surrealist art enthusiast**  
 
-I bridge **UX, technology, and communication** to create meaningful digital solutions.
 
 ---
 
