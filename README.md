@@ -35,5 +35,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=9ca3af&center=true&vCenter=true&width=600&height=50&lines=UX+%2B+Code+%2B+Communication= 🔥;Designing+meaningful+experiences+ 🚀;Turning+ideas+into+real+solutions+ 💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=9ca3af&center=true&vCenter=true&width=600&height=50&lines=UX+%2B+Code+%2B+Communication=🔥;Designing+meaningful+experiences+🚀;Turning+ideas+into+real+solutions+💡" />
 </p>
