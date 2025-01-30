@@ -35,5 +35,6 @@ I bridge **UX, technology, and communication** to create meaningful digital solu
 
 ---
 
-### 🚀 *"Bridging Creativity & Technology for Meaningful Digital Experiences"*  
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=UX+%2B+Code+%2B+Communication=🔥;Designing+meaningful+experiences+🚀;Turning+ideas+into+real+solutions+💡" />
+</p>
