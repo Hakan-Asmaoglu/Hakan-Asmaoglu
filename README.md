@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hakan 👋</h1>
 
 <p align="center">
-  <strong>UX Designer | IT Student | Communication Specialist</strong>
+  <strong>UX Designer | Hobbyist Developer | Communication Specialist</strong>
 </p>
 
 ---
