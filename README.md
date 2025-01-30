@@ -1,31 +1,23 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hakan-Asmaoglu/Hakan-Asmaoglu/main/assets/tech-stack-animated.svg" alt="Tech Stack Animation"/>
-</p>
-
-<style>
-  .cursor {
-    animation: blink 1s infinite;
-  }
-  
-  @keyframes blink {
-    50% { opacity: 0; }
-  }
-</style>
+<h1 align="center">Hi, I'm Hakan 👋</h1>
 
 <p align="center">
   <strong>UX Designer | Hobbyist Developer | Communication Specialist</strong>
+</p>
+
+<p align="center">
+  Passionate about crafting intuitive, user-centric digital experiences.
 </p>
 
 ---
 
 ## 🎨 **About Me**
 
-- 🖌 **Crafting seamless, user-friendly, and business-driven digital experiences**  
+- 🖌 **Designing seamless, user-friendly, and business-driven digital experiences**  
 - 💬 **Communication Specialist** (B.A. in PR & Advertising)  
 - 👨🏻‍🎓 **IT Student @ OAMK, Finland (3rd Year)**  
 - 🎨 **Abstract painter & surrealist art enthusiast**  
 
-I blend **UX design, technology, and communication** to create impactful digital solutions.
+I bridge **UX, technology, and communication** to create meaningful digital solutions.
 
 ---
 
@@ -52,7 +44,9 @@ I blend **UX design, technology, and communication** to create impactful digital
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-</p> 
+</p>
+
+---
 
 ## 📫 **Let's Connect**
 
