@@ -10,7 +10,7 @@
 
 ## 🎨 **About Me**
 
-- 🖌 **Designing user and business friendly digital solutions**  
+- 🖌 **Designing user and business-friendly digital solutions**  
 - 💬 **Communication Specialist** (B.A. in PR & Advertising)  
 - 👨🏻‍🎓 **IT Student @ OAMK, Finland (3rd Year)**  
 - 🎨 **Abstract painter & surrealist art enthusiast**  
@@ -42,5 +42,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=9ca3af&center=true&vCenter=true&width=600&height=50&lines=Design+%2B+Code+%2B+Communication=%20%20%20%20%20🔥;Designing+impactful+experiences+🚀;Turning+ideas+into+real+world+solutions+🧙🏻‍♂️" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=9ca3af&center=true&vCenter=true&width=600&height=50&lines=Design+%2B+Code+%2B+Communication%20%20%20%20%20=%20%20%20%20%20🔥;Designing+impactful+experiences+🚀;Turning+ideas+into+real+world+solutions+🧙🏻‍♂️" />
 </p>
