@@ -33,10 +33,6 @@
   <a href="https://www.linkedin.com/in/hakan-asmaoglu" style="margin: 20px;">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45">
   </a>  
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Hakan-Asmaoglu" style="margin: 20px;">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45">
-  </a>
 </p>
 
 ---
