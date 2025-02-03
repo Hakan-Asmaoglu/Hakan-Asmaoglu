@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>UX Designer | Communication Specialist | Hobbyist Developer</strong>
+  <strong>Product Designer | Communication Specialist | Hobbyist Developer</strong>
 </p>
 
 ---
