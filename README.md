@@ -13,7 +13,7 @@
 - 🖌 **Designing user and business-friendly digital solutions**  
 - 💬 **Communication Specialist** (B.A. in PR & Advertising)  
 - 👨🏻‍🎓 **IT Student @ OAMK, Finland (Final Year)**  
-- 🎨 **Abstract painter & surrealist art enthusiast**  
+- 🎨 **Abstract painter**  
 
 ---
 
