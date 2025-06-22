@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Product Designer | Communication Specialist | Hobbyist Developer</strong>
+  <strong>SERVICE DESIGNER | COMMUNICATION SPECIALIST | SOFTWARE DEV | PROJECT MANAGER </strong>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 - 🖌 **Designing user and business-friendly digital solutions**  
 - 💬 **Communication Specialist** (B.A. in PR & Advertising)  
-- 👨🏻‍🎓 **IT Student @ OAMK, Finland (3rd Year)**  
+- 👨🏻‍🎓 **IT Student @ OAMK, Finland (Final Year)**  
 - 🎨 **Abstract painter & surrealist art enthusiast**  
 
 ---
