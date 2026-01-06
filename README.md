@@ -12,8 +12,8 @@
 
 - 🖌 **Designing user and business-friendly digital solutions**  
 - 💬 **Communication Specialist** (B.A. in PR & Advertising)  
-- 👨🏻‍🎓 **IT Student Grad**  
-- 🎨 **Abstract painter**  
+- 👨🏻‍🎓 **IT Grad**  
+
 
 ---
 
