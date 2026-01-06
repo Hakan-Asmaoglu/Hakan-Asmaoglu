@@ -12,7 +12,7 @@
 
 - 🖌 **Designing user and business-friendly digital solutions**  
 - 💬 **Communication Specialist** (B.A. in PR & Advertising)  
-- 👨🏻‍🎓 **IT Student @ OAMK, Finland (Final Year)**  
+- 👨🏻‍🎓 **IT Student Grad**  
 - 🎨 **Abstract painter**  
 
 ---
